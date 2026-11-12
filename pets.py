@@ -25,4 +25,4 @@ class Pet:
 
   class Cat(Pet):
     def speak(self):
-    return "Meow."
+    return "Purr..."
